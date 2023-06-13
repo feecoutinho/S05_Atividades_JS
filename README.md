@@ -1,2 +1,2 @@
 # S05_Atividades_JS
-Atividades realizadas em aula.
+Atividades de javascript realizadas em aula.
